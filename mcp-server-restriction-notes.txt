@@ -1,0 +1,8 @@
+(Optional) MCP Server Access Restriction Workaround
+If your organization has disabled MCP server functionality via GitHub policy settings in the admin console, you may not be able to test the MCP tools in later exercises. This restriction affects how GitHub Copilot can connect to external MCP endpoints.
+
+Workarounds:
+
+Use a GitHub account that is not managed by your organization
+Use the MCP Inspector tool (instructions will be provided in the optional section later in the lab)
+This will only affect the MCP tool testing portions - all other parts of the lab will work normally regardless of policy settings.
